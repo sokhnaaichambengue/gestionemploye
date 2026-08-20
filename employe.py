@@ -10,7 +10,7 @@ class Employe(Personne):
     """
     Classe représentant un employé dans l'entreprise, héritant de Personne.
 
-    Attributs privés supplémentaires:
+    Attributs privé supplémentaires:
         _matricule (str): Identifiant unique de l'employé.
         _poste (str): Intitulé du poste occupé.
         _salaire (float): Salaire mensuel de l'employé.

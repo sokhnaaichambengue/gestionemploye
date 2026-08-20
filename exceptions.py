@@ -5,7 +5,7 @@ Module contenant les exceptions personnalisées pour l'application de gestion de
 
 class ApplicationError(Exception):
     """
-    Classe de base pour toutes les exceptions personnalisées de l'application.
+    Classe de base pour toute les exceptions personnalisées de l'application.
     """
     pass
 

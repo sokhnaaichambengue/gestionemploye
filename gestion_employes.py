@@ -18,7 +18,7 @@ from exceptions import (
 
 class GestionEmployes:
     """
-    Classe gérant la collection des employés, les opérations CRUD, les statistiques et la persistance JSON.
+    Classe gérans la collection des employés, les opérations CRUD, les statistiques et la persistance JSON.
 
     Attributs privés:
         _employes (Dict[str, Employe]): Dictionnaire des employés indexé par le matricule.

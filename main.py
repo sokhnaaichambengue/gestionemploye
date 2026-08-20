@@ -26,7 +26,7 @@ from utils import (
 
 def recharger_donnees(gestion_emp: GestionEmployes, gestion_dept: GestionDepartements) -> None:
     """
-    Recharge les données des départements et des employés au démarrage du programme.
+    Recharge les donnée des départements et des employés au démarrage du programme.
 
     Args:
         gestion_emp (GestionEmployes): Gestionnaire des employés.

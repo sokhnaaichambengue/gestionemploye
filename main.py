@@ -253,7 +253,7 @@ def menu_gerer_departements(gestion_emp: GestionEmployes, gestion_dept: GestionD
         print("2. Modifier un département")
         print("3. Supprimer un département")
         print("4. Afficher tous les départements")
-        print("5. Affecter un employé à un département")
+        print("5. Affecter un employé a un département")
         print("6. Retour au menu principal")
 
         choix = input("Votre choix : ").strip()

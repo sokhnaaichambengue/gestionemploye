@@ -1,0 +1,62 @@
+[
+    {
+        "nom": "Dupont",
+        "prenom": "Jean",
+        "age": 35,
+        "sexe": "M",
+        "adresse": "15 Rue de Paris, 75001 Paris",
+        "telephone": "0601020304",
+        "matricule": "EMP001",
+        "poste": "Développeur Senior",
+        "salaire": 3500.0,
+        "departement": "IT"
+    },
+    {
+        "nom": "Martin",
+        "prenom": "Sophie",
+        "age": 29,
+        "sexe": "F",
+        "adresse": "8 Avenue des Fleurs, 69002 Lyon",
+        "telephone": "0611223344",
+        "matricule": "EMP002",
+        "poste": "Responsable Recrutement",
+        "salaire": 3100.0,
+        "departement": "RH"
+    },
+    {
+        "nom": "Kaba",
+        "prenom": "Moussa",
+        "age": 42,
+        "sexe": "M",
+        "adresse": "24 Boulevard Haussmann, 75009 Paris",
+        "telephone": "0622334455",
+        "matricule": "EMP003",
+        "poste": "Analyste Financier",
+        "salaire": 4200.0,
+        "departement": "FIN"
+    },
+    {
+        "nom": "Lefevre",
+        "prenom": "Camille",
+        "age": 26,
+        "sexe": "F",
+        "adresse": "5 Rue de la République, 13001 Marseille",
+        "telephone": "0633445566",
+        "matricule": "EMP004",
+        "poste": "UI/UX Designer",
+        "salaire": 2800.0,
+        "departement": "IT"
+    },
+    {
+        "nom": "diop",
+        "prenom": "bara",
+        "age": 19,
+        "sexe": "f",
+        "adresse": "loga",
+        "telephone": "888",
+        "matricule": "EMPO5",
+        "poste": "okp",
+        "salaire": 44.0,
+        "departement": "Non affecté"
+    }
+]

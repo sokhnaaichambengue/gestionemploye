@@ -1,0 +1,22 @@
+[
+    {
+        "code": "IT",
+        "nom": "Technologies de l'Information",
+        "description": "Développement logiciel, infrastructures et support technique"
+    },
+    {
+        "code": "RH",
+        "nom": "Ressources Humaines",
+        "description": "Gestion du personnel, recrutement et paie"
+    },
+    {
+        "code": "FIN",
+        "nom": "Finance et Comptabilité",
+        "description": "Gestion du budget, trésorerie et comptabilité"
+    },
+    {
+        "code": "MKT",
+        "nom": "Marketing et Communication",
+        "description": "Stratégie de marque, communication et événementiel"
+    }
+]

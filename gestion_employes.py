@@ -130,6 +130,24 @@ class GestionEmployes:
             raise MatriculeInexistantError(mat_cle)
         return self._employes[mat_cle]
 
+    def rechercher_par_nom(self, nom: str) -> List[Employe]:
+        """
+        Recherche les employés à partir de leur nom.
+
+        Args:
+            nom (str): Nom recherché.
+
+        Returns:
+            List[Employe]: Liste des employés correspondant au nom.
+        """
+        nom_recherche = nom.strip().lower()
+
+        return [
+            emp
+            for emp in self._employes.values()
+            if emp.nom.lower() == nom_recherche
+        ]
+
     def affecter_departement(self, matricule: str, code_departement: str, gestion_dept: GestionDepartements) -> Employe:
         """
         Affecte un employé à un département.
